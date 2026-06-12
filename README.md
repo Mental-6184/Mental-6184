@@ -1,126 +1,127 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mental&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mental&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mental&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c1d,100:1a1a3e&height=280&section=header&text=Mental.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack+Developer+%7C+AI+%26+FinTech&descSize=18&descAlignY=55">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fc,100:e8ecf4&height=280&section=header&text=Mental.&fontSize=80&fontColor=1a1a3e&animation=fadeIn&fontAlignY=35&desc=Full-Stack+Developer+%7C+AI+%26+FinTech&descSize=18&descAlignY=55">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c1d,100:1a1a3e&height=280&section=header&text=Mental.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack+Developer+%7C+AI+%26+FinTech&descSize=18&descAlignY=55" alt="hero">
   </picture>
 </div>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;AI+%26+FinTech+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://github.com/Mental-6184?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7+-6c63ff?style=flat-square&logo=github&labelColor=0c0c1d" alt="Repos"></a>
+  <img src="https://img.shields.io/github/followers/Mental-6184?style=flat-square&logo=github&label=Followers&labelColor=0c0c1d&color=6c63ff" alt="Followers">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-6c63ff?style=flat-square&labelColor=0c0c1d" alt="Focus">
 </p>
 
----
+<br>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/vuejs-icon.svg" alt="Vue" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="55" height="55" />
-</p>
+<h3>About</h3>
 
-<h2>👨‍💻 About Me</h2>
+<blockquote>Building modern web experiences at the intersection of <strong>Full-Stack Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>Financial Technology</strong>.</blockquote>
 
-<blockquote>
-  热爱技术的全栈开发者，专注于构建高质量的 Web 应用与智能系统。
-</blockquote>
+<br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🎯 Focus Areas**
-- Full-Stack Web Development
-- AI-Powered Applications
-- FinTech Platform Development
-- Cognitive Training & Gamification
-
-</td>
-<td valign="top" width="50%">
-
-**🛠️ Core Tech**
-- **Backend:** Java, Spring Boot, Spring AI, MyBatis, JPA
-- **Frontend:** Vue 3, React, TypeScript, Element Plus, ECharts
-- **Database:** MySQL, Redis
-- **Tools:** Docker, Maven, Git, Vite
-
-</td>
-</tr>
-</table>
-
-<h2>🚀 Featured Projects</h2>
+<h3>Featured Projects</h3>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>📝 Mental-Blog</h3>
-      <p><i>个人赛博朋克博客系统</i></p>
-      <p>Vue 3 · Spring Boot · MySQL · Redis</p>
-      <p>全栈博客平台，支持文章管理、评论互动、图库系统、深色模式、RSS 订阅等完整功能。</p>
-      <a href="https://github.com/Mental-6184/Mental-Blog">🔗 View on GitHub</a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Mental-6184/FundPilot-AI">FundPilot-AI</a></h4>
+      <p><sup><code>Spring Boot</code> <code>Vue 3</code> <code>Spring AI</code> <code>DashScope</code></sup></p>
+      <p>Multi-Agent AI fund analytics platform with intelligent search, portfolio management, AI advisor chat, and automated report generation.</p>
+      <p>AI &middot; FinTech &middot; Full-Stack</p>
     </td>
-    <td width="50%" align="center">
-      <h3>🤖 FundPilot-AI</h3>
-      <p><i>多 Agent AI 基金智能分析平台</i></p>
-      <p>Spring Boot · Vue 3 · Spring AI · DashScope</p>
-      <p>基于多 Agent AI 架构的基金投资分析平台，支持智能搜索、组合管理、AI 顾问对话与自动报告生成。</p>
-      <a href="https://github.com/Mental-6184/FundPilot-AI">🔗 View on GitHub</a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Mental-6184/GazeForge">GazeForge</a></h4>
+      <p><sup><code>React</code> <code>TypeScript</code> <code>Canvas</code></sup></p>
+      <p>Visual attention training platform with 66 levels of MOT gameplay, free training mode, focus assessment radar, and achievement system.</p>
+      <p>Cognitive Science &middot; Gamification &middot; SPA</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>👁️ GazeForge</h3>
-      <p><i>视觉注意力追踪训练平台</i></p>
-      <p>React · TypeScript · Canvas API</p>
-      <p>66 关多目标追踪训练游戏，支持闯关模式、自由训练、专注力测试雷达图和成就系统。</p>
-      <a href="https://github.com/Mental-6184/GazeForge">🔗 View on GitHub</a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Mental-6184/Mental-Blog">Mental-Blog</a></h4>
+      <p><sup><code>Vue 3</code> <code>Spring Boot</code> <code>MySQL</code> <code>Redis</code></sup></p>
+      <p>Personal cyberpunk-themed blog system with article management, gallery, comment system, dark mode, and RSS subscriptions.</p>
+      <p>Blog Engine &middot; CMS &middot; Full-Stack</p>
     </td>
-    <td width="50%" align="center">
-      <h3>🎯 PUBG Weapon Rotation</h3>
-      <p><i>PUBG 武器幸运转盘</i></p>
-      <p>Spring Boot · Canvas · MySQL</p>
-      <p>PUBG 武器随机抽取 Web 应用，Canvas 转盘动画、历史记录、音效反馈，已部署上线。</p>
-      <a href="https://github.com/Mental-6184/PUBG-Weapon-Rotation">🔗 View on GitHub</a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Mental-6184/PUBG-Weapon-Rotation">PUBG Weapon Rotation</a></h4>
+      <p><sup><code>Spring Boot</code> <code>Canvas</code> <code>MySQL</code></sup></p>
+      <p>PUBG weapon lucky draw web app with Canvas spinning wheel animation, draw history, sound effects, deployed on cloud server.</p>
+      <p>Game &middot; Interactive &middot; Deployed</p>
     </td>
   </tr>
 </table>
 
-<h2>📊 GitHub Stats</h2>
+<br>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mental-6184&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-6184&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" />
-</div>
+<h3>Stack</h3>
+
+<p align="center">
+  <b>Backend</b> &nbsp;
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>
+
+<p align="center">
+  <b>Frontend</b> &nbsp;
+  <img src="https://img.shields.io/badge/-Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+</p>
+
+<p align="center">
+  <b>Infra</b> &nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
+</p>
+
+<br>
+
+<h3>Analytics</h3>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mental-6184&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mental-6184&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="84%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mental-6184&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0c1d&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&border_radius=8">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mental-6184&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0c1d&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&border_radius=8">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-6184&layout=compact&hide_border=true&bg_color=0c0c1d&title_color=6c63ff&text_color=c9d1d9&border_radius=8">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-6184&layout=compact&hide_border=true&bg_color=0c0c1d&title_color=6c63ff&text_color=c9d1d9&border_radius=8">
   </picture>
 </div>
 
+<br>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mental-6184&theme=tokyo-night&hide_border=true&area=true&radius=8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mental-6184&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="90%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mental-6184&theme=github-dark&hide_border=true&area=true&bg_color=0c0c1d&color=6c63ff&line=6c63ff&point=ffffff&area_color=6c63ff20" alt="activity" width="90%">
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mental-6184&theme=radical&no-frame=true&column=6&margin-w=12&margin-h=12" alt="trophies" width="80%">
+</div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-</div>
-
-<div align="center">
-  <sub>✨ Always code, always learn, always grow ✨</sub>
-  <br />
-  <sub><a href="https://github.com/Mental-6184?tab=repositories">Explore All Projects →</a></sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%" />
+  <p>
+    <sup>
+      <a href="https://github.com/Mental-6184?tab=repositories">All Repositories</a> &middot;
+      <a href="https://github.com/Mental-6184/Mental-Blog">Blog</a> &middot;
+      <a href="https://github.com/Mental-6184/FundPilot-AI">FundPilot-AI</a> &middot;
+      <a href="https://github.com/Mental-6184/GazeForge">GazeForge</a>
+    </sup>
+  </p>
+  <p><sub>&#10022; Always code, always learn, always grow &#10022;</sub></p>
 </div>
